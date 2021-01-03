@@ -61,3 +61,7 @@
 `$ -gossip`
 
 可以通过启动时用-gossip flag 运行gossip心跳机制，也可以通过 `$switch` 命令改变类型。
+
+## 运行截图
+
+![image](https://github.com/sophia-xxx/distributed_system_heartbeat/blob/master/img/51609642085_.pic_hd.jpg)
